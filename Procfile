@@ -1,1 +1,1 @@
-web: java -jar -Dserver.port=$PORT target/sistema_escola.jar
+web: java -jar -Dserver.port=$PORT sistema_escola.jar
